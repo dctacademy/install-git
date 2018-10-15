@@ -22,3 +22,10 @@
 * Double-Click the Installer file (.dmg) and process with the installation
 * Use all default settings/options while proceeding and **do not** change any settings
 * **Do not** install any existing software if prompted (Eg: Visual Studio Code)
+
+# Instructions for GitHub
+
+* Visit [GitHub](https://github.com)
+* Click on ```Sign Up``` and fill in relevant details
+* **Note: Pick a ```username``` that represents you or that sounds professional. Remember that this is permanent and it is not recommended to change this**
+* Be use to remember your email that you have used, your username and password
