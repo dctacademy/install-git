@@ -15,6 +15,8 @@
 * Double-Click the Setup file (.exe) and proceed with the installation
 * Use all default settings/options while proceeding and **do not** change any settings 
 * **Do not** install any existing software if prompted (Eg: Visual Studio Code)
+* Open Command Prompt
+* Run ```git --version``` to check the version of git installed and verify installation
 
 ## Mac OS
 
@@ -22,6 +24,8 @@
 * Double-Click the Installer file (.dmg) and process with the installation
 * Use all default settings/options while proceeding and **do not** change any settings
 * **Do not** install any existing software if prompted (Eg: Visual Studio Code)
+* Open Terminal
+* Run ```git --version``` to check the version of git installed and verify installation
 
 # Instructions for GitHub
 
