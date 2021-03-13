@@ -117,3 +117,8 @@ $ yay -S github-cli
 * Click on ```Sign Up``` and fill in relevant details
 * **Note: Pick a username that represents you or that sounds professional. Remember that this is permanent and it is not recommended to change this**
 * Be sure to remember your email that you have used, your username and password
+
+# Youtube Links 
+* [Session 1](https://www.youtube.com/watch?v=8yd8s7f0iRg)
+* [session 2](https://www.youtube.com/watch?v=hCESPCxnIGY)
+
